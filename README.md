@@ -1,3 +1,5 @@
+ALL CODES WERE DEVELOPED BY ME
+
 # Introduction-to-Computer-Science-with-Python_Part-1_Weeks-6-and-7
 University of São Paulo/Coursera - Programming Assignments
 

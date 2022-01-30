@@ -162,5 +162,6 @@ def jogo():
             valido = False
             print("Erro: Este valor é inválido. Tente novamente!") 
             count = count + 1  
-          
-jogo()
+
+if __name__ == ‘__main__’:
+    jogo()          

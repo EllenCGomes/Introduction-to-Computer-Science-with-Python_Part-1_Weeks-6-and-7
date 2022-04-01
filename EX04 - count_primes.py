@@ -11,8 +11,8 @@ def n_prime(n):
                 count = count + 1
             div = div + 1    
         if count == 1:
-            total = total + 1
-        x = x + 1
+            total += 1
+        x += 1
         div = 2
         count = 0
     return (total)

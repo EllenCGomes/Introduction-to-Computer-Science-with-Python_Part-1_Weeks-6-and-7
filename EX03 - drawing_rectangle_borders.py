@@ -9,8 +9,8 @@ while height <= h:
     if height == 1 or height == h:
         while width <= w:
            print ("#", end = "")
-           width = width + 1
-        height = height + 1
+           width += 1
+        height += 1
         width = 1
         print ()
     else:
@@ -21,7 +21,7 @@ while height <= h:
                 width = width + 1
             else:
                 print (" ", end = "")
-                width = width + 1
-        height = height + 1
+                width += 1
+        height += 1
         width = 1
         print ()

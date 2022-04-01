@@ -5,6 +5,6 @@ height = 1
 
 while height <= h:
     print (w*"#")
-    height = height + 1
+    height += 1
       
 
